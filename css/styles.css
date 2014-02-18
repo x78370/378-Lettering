@@ -1,1 +1,34 @@
 /* Your Awesome Website */
+.char1 {
+
+background: red;
+
+}
+.char2 {
+
+background: green;
+}
+
+.word1 {
+	background: blue;
+	font-size: 2em;
+}
+
+.word1:hover {
+	background: red;
+	transition: background 1s;
+}
+
+.word2 {
+	background: pink;
+	font-size: 1.25em;
+}
+
+.line1 {
+	font-style: italic;
+	background: yellow;
+}
+
+.line2 {
+
+}
